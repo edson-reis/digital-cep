@@ -1,0 +1,22 @@
+{
+    "name": "wead/digitalcep",
+    "description": "busca de cep online",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edson Reis",
+            "email": "elias.edson@gmail.com"
+        }
+    ],
+    "require": {
+        "php":">=7.2.0"
+    },
+    "autoload": {
+        "psr-0":{
+            "search":"src/"
+        },
+        "psr-4":{
+            "wead\\digitalcep\\":"src/"
+        }
+    }
+}
