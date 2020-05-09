@@ -1,5 +1,5 @@
 <?php
-namespace wead\digitalcep;
+namespace edsonreis\digitalcep;
 
 class search {
     private $url="https://viacep.com.br/ws/";

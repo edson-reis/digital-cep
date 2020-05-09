@@ -1,5 +1,5 @@
 {
-    "name": "wead/digitalcep",
+    "name": "edsonreis/digitalcep",
     "description": "busca de cep online",
     "license": "MIT",
     "authors": [
@@ -16,7 +16,7 @@
             "search":"src/"
         },
         "psr-4":{
-            "wead\\digitalcep\\":"src/"
+            "edsonreis\\digitalcep\\":"src/"
         }
     }
 }

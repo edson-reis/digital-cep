@@ -1,6 +1,6 @@
 <?php
 require_once "vendor/autoload.php";
-use \wead\digitalcep\search;
+use \edsonreis\digitalcep\search;
 
 $busca = new search();
 $resultado = $busca->getAddressFromzipCode('32310030');
